@@ -1,7 +1,8 @@
 [
   {
-    "repository" : "vendor_xiaomi",
+    "repository" : "Hlcpereira/vendor_xiaomi-1",
     "target_path": "vendor/xiaomi",
+    "remote": "github",
     "branch": "ten"
   }
 ]
